@@ -10,6 +10,6 @@ public class fin extends JFrame {
 		this.add(b);
 		b.setIcon(n);
 		this.setVisible(true);
-		this.setSize(500,500);
+		this.setSize(600,600);
 	}
 }
